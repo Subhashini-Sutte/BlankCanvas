@@ -1,0 +1,10 @@
+{
+  "description": "A versatile platform designed to streamline tasks and enhance productivity for users seeking efficient workflow management and organization.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
